@@ -12,7 +12,9 @@ body {
     content: "";
     display: table;
   }
-  
+  .win-square{
+    background-color:yellow!important;
+  }
   .status {
     margin-bottom: 10px;
   }
